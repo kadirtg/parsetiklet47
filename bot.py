@@ -78,7 +78,7 @@ async def info(event):
                        Button.url('Kanal 📣', 'https://t.me/yangazlargrup')
                       ],
                       [
-                       Button.url('Sahibim 🖥️', 'https://t.me/kadirtg')
+                       Button.url('Sahibim 🖥️', 'https://t.me/tgkadir')
                       ],
                     ),
                     link_preview=False
@@ -108,7 +108,7 @@ async def start(event):
                        Button.url('Kanal', 'https://t.me/yangazlargrup')
                       ],
                       [
-                       Button.url('Sahibim', 'https://t.me/kadirtg')
+                       Button.url('Sahibim', 'https://t.me/tgkadir')
                       ],
                     ),
                     link_preview=False)
@@ -131,7 +131,7 @@ async def handler(event):
                        Button.url('Kanal', 'https://t.me/yangazlargrup')
                       ],
                       [
-                       Button.url('Sahibim', 'https://t.me/kadirtg')
+                       Button.url('Sahibim', 'https://t.me/tgkadir')
                       ],
                     ),
                     link_preview=False)
